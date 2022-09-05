@@ -1,2 +1,2 @@
-# my-game
+# Siman Game
 This is a simple game application.
